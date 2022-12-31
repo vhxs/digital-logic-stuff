@@ -9,7 +9,6 @@ Integrated circuits
 
 TTL family
 - 5 volts.
-- 7400 series: https://en.wikipedia.org/wiki/List_of_7400-series_integrated_circuits
 - 7400 NAND
 - 7402 NOR
 - 7408 AND
@@ -26,5 +25,6 @@ Flip flops
 - Set and reset are synchronous and take effect on the next clock cycle.
 - Preset and clear are asynchronous and take effect _immediately_.
 
-Other notes
-- Synchronous versus asynchronous sequential logic. Difference is how the clock signal is propagated through the circuit.
+References
+- Decade counter schematic: https://en.wikipedia.org/wiki/Counter_(digital)#Decade_counter
+- 7400 series: https://en.wikipedia.org/wiki/List_of_7400-series_integrated_circuits
