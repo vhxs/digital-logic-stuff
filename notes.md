@@ -22,5 +22,9 @@ TTL family
 - 74148 Decimal to BCD encoder
 - 7476 JK flip-flop
 
+Flip flops
+- Set and reset are synchronous and take effect on the next clock cycle.
+- Preset and clear are asynchronous and take effect _immediately_.
+
 Other notes
 - Synchronous versus asynchronous sequential logic. Difference is how the clock signal is propagated through the circuit.
