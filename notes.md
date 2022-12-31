@@ -20,7 +20,7 @@ TTL family
 - 7474 D flip-flop
 - 7475 Bistable latch (don't remember what this is?)
 - 74148 Decimal to BCD encoder
-- 7476 JK flip-flop
+- 7476 JK flip-flop. Two flip-flops wired together in a master-slave (unfortunate naming...) configuration
 
 Flip flops
 - Set and reset are synchronous and take effect on the next clock cycle.
