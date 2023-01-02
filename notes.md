@@ -43,3 +43,4 @@ Design notes for a digital clock displaying hours, minutse, and seconds in binar
 - Two push buttons: one for incrementing the hour and another for incrementing the minute
   - These should do nothing if the user is not configuring the time
 - Use adders to increment the state? Or will the user pushing the button function as a clock signal?
+  - May need to implement debouncing?
