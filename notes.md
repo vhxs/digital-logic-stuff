@@ -23,6 +23,7 @@ TTL family
 - 7476 JK flip-flop. Two flip-flops wired together in a master-slave (unfortunate naming...) configuration
 - 7490 decade counter. Saves you the trouble of wiring four JK flip flops sequentially.
 - 75690 8-bit counter
+- 74283 4-bit full adder
 
 Flip flops
 - Set and reset are synchronous and take effect on the next clock cycle.
@@ -41,3 +42,4 @@ Design notes for a digital clock displaying hours, minutse, and seconds in binar
 - Switch for toggling between two modes: letting the clock run (default) and letting the user configure it
 - Two push buttons: one for incrementing the hour and another for incrementing the minute
   - These should do nothing if the user is not configuring the time
+- Use adders to increment the state? Or will the user pushing the button function as a clock signal?
