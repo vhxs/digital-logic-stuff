@@ -31,3 +31,4 @@ References
 - Decade counter schematic: https://en.wikipedia.org/wiki/Counter_(digital)#Decade_counter
 - 7400 series: https://en.wikipedia.org/wiki/List_of_7400-series_integrated_circuits
 - Digital clock from scratch: https://medium.com/@erikvanzijst/a-digital-quartz-clock-from-scratch-a80ec5e427
+  - Logic is easy, producing a clock signal from scratch is hard
