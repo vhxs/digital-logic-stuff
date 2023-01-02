@@ -34,6 +34,7 @@ References
 - Decade counter schematic: https://en.wikipedia.org/wiki/Counter_(digital)#Decade_counter
 - 7400 series: https://en.wikipedia.org/wiki/List_of_7400-series_integrated_circuits
 - Digital clock from scratch: https://medium.com/@erikvanzijst/a-digital-quartz-clock-from-scratch-a80ec5e427
+- Debouncing: https://www.eeweb.com/spdt-switch-debouncing-with-an-sr-latch/
 
 Design notes for a digital clock displaying hours, minutse, and seconds in binary:
 - 5 LEDs for 24 hours, 6 LEDs for 60 minutes, and 6 LEDs for 60 seconds means I'm using 17 LEDs total
