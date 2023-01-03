@@ -1,4 +1,4 @@
-I want to build a 24-hour binary clock from scratch. This includes everything from the designing the circuit to the building the casing. I'll track my notes and incremental progress here.
+I want to build a 24-hour binary clock (hours/minutes/seconds) from scratch. This includes everything from the designing the circuit to the building the casing. I'll track my notes and incremental progress here.
 
 Parts distributors 
 - Elenco
