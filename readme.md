@@ -32,6 +32,9 @@ Flip flops
 - Preset and clear are asynchronous and take effect _immediately_.
 - Edge triggered vs level triggered. The former seem to be preferred.
 
+Switches
+- Single pole, double throw (SPDT)
+
 References
 - Decade counter schematic: https://en.wikipedia.org/wiki/Counter_(digital)#Decade_counter
 - 7400 series: https://en.wikipedia.org/wiki/List_of_7400-series_integrated_circuits
