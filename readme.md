@@ -50,3 +50,10 @@ Design notes for a digital clock displaying hours, minutse, and seconds in binar
   - These should do nothing if the user is not configuring the time
 - Use adders to increment the state? Or will the user pushing the button function as a clock signal?
   - May need to implement debouncing?
+
+Next steps:
+- The circuit above is somewhat complex. I should use a circuit simulator to test it out before ordering more parts.
+- I knew how to use NI Multisim at some point, but its free version is very limited in its capabilities.
+- LTSpice looks like a free circuit simulator. I should start with a simple combinatorial circuit.
+  - The computer architects I know have mentioned this in the past.
+  - Based on SPICE? https://en.wikipedia.org/wiki/SPICE
